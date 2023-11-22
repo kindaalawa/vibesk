@@ -1,4 +1,4 @@
-# vibesk 
+# Vibesk 
 # Table of Contents
 
 - [Overview](#overview)
