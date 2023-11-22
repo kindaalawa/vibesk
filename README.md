@@ -87,8 +87,11 @@ To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/kindaAlawa/vibesk
+git clone https://github.com/kindaAlawa/vibesk.git
 cd vibesk-kindaAlawa
 
 # Install dependencies
 npm install
+# Start the app
+npm start  # or yarn start
+
